@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mynor\\source\\repos\\L4_AR_1193326\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9454409-D36F-446D-BF90-045D508EA692}|L4_AR_1193326\\L4_AR_1193326.csproj|c:\\users\\mynor\\source\\repos\\l4_ar_1193326\\l4_ar_1193326\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9454409-D36F-446D-BF90-045D508EA692}|L4_AR_1193326\\L4_AR_1193326.csproj|solutionrelative:l4_ar_1193326\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mynor\\source\\repos\\L4_AR_1193326\\L4_AR_1193326\\Program.cs",
+              "RelativeDocumentMoniker": "L4_AR_1193326\\Program.cs",
+              "ToolTip": "C:\\Users\\mynor\\source\\repos\\L4_AR_1193326\\L4_AR_1193326\\Program.cs",
+              "RelativeToolTip": "L4_AR_1193326\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:11:43.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
