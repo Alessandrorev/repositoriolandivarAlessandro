@@ -1,0 +1,5 @@
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\L8-AX-1193326\L8-AX-1193326\obj\Debug\net10.0\L8-AX-1193326.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\L8-AX-1193326\L8-AX-1193326\obj\Debug\net10.0\L8-AX-1193326.AssemblyInfoInputs.cache
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\L8-AX-1193326\L8-AX-1193326\obj\Debug\net10.0\L8-AX-1193326.AssemblyInfo.cs
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\L8-AX-1193326\L8-AX-1193326\obj\Debug\net10.0\L8-AX-1193326.csproj.CoreCompileInputs.cache
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\L8-AX-1193326\L8-AX-1193326\obj\Debug\net10.0\L8-AX-1193326.sourcelink.json
