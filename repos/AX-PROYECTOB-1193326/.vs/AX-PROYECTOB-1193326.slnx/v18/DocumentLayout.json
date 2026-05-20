@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mynor\\OneDrive\\Documentos\\GitHub\\repositoriolandivarAlessandro\\repos\\AX-PROYECTOB-1193326\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0796367D-BC0A-4D3E-A6DB-D46B7AE6C828}|AX-PROYECTOB-1193326\\AX-PROYECTOB-1193326.csproj|c:\\users\\mynor\\onedrive\\documentos\\github\\repositoriolandivaralessandro\\repos\\ax-proyectob-1193326\\ax-proyectob-1193326\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0796367D-BC0A-4D3E-A6DB-D46B7AE6C828}|AX-PROYECTOB-1193326\\AX-PROYECTOB-1193326.csproj|solutionrelative:ax-proyectob-1193326\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mynor\\OneDrive\\Documentos\\GitHub\\repositoriolandivarAlessandro\\repos\\AX-PROYECTOB-1193326\\AX-PROYECTOB-1193326\\Program.cs",
+              "RelativeDocumentMoniker": "AX-PROYECTOB-1193326\\Program.cs",
+              "ToolTip": "C:\\Users\\mynor\\OneDrive\\Documentos\\GitHub\\repositoriolandivarAlessandro\\repos\\AX-PROYECTOB-1193326\\AX-PROYECTOB-1193326\\Program.cs",
+              "RelativeToolTip": "AX-PROYECTOB-1193326\\Program.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T02:30:52.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\bin\Debug\net10.0\AX-PROYECTOB-1193326.exe
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\bin\Debug\net10.0\AX-PROYECTOB-1193326.deps.json
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\bin\Debug\net10.0\AX-PROYECTOB-1193326.runtimeconfig.json
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\bin\Debug\net10.0\AX-PROYECTOB-1193326.dll
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\bin\Debug\net10.0\AX-PROYECTOB-1193326.pdb
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.AssemblyInfoInputs.cache
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.AssemblyInfo.cs
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.csproj.CoreCompileInputs.cache
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.sourcelink.json
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.dll
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\refint\AX-PROYECTOB-1193326.dll
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.pdb
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\AX-PROYECTOB-1193326.genruntimeconfig.cache
+C:\Users\mynor\OneDrive\Documentos\GitHub\repositoriolandivarAlessandro\repos\AX-PROYECTOB-1193326\AX-PROYECTOB-1193326\obj\Debug\net10.0\ref\AX-PROYECTOB-1193326.dll

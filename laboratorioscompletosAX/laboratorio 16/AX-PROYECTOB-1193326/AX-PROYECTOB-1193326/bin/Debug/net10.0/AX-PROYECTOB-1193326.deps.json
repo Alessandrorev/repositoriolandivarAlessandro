@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AX-PROYECTOB-1193326/1.0.0": {
+        "runtime": {
+          "AX-PROYECTOB-1193326.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AX-PROYECTOB-1193326/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
